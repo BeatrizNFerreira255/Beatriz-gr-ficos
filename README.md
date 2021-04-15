@@ -1,1 +1,1 @@
-# Beatriz-gr-ficos
+# Beatriz-gráficos
